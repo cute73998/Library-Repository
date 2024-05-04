@@ -1,0 +1,37 @@
+Book: How to use spectre
+Author: sonmm186
+Year: 2024
+
+Book: One Piece
+Author: Eiichiro Oda
+Year: 1997
+
+
+Book: Naruto
+Author: Masashi Kishimoto
+Year: 1999
+
+Book: My Hero Academia
+Author: Kohei Horikoshi
+Year: 2014
+
+Book: Attack on Titan
+Author: Hajime Isayama
+Year: 2009
+
+Book: Demon Slayer: Kimetsu no Yaiba
+Author: Koyoharu Gotouge
+Year: 2016
+
+Book: One Punch Man
+Author: ONE (story), Yusuke Murata (art)
+Year: 2009
+
+Book: Dragon Ball
+Author: Akira Toriyama
+Year: 1984
+
+Book: Fullmetal Alchemist
+Author: Hiromu Arakawa
+Year: 2001
+
